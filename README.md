@@ -18,6 +18,28 @@
 
 ---
 
+## 💻 Skills & Technologies
+
+### 👨‍💻 Programming Languages
+Java • Python • JavaScript • TypeScript • Go • C
+
+### 🧠 Data Structures & Algorithms
+Arrays • Strings • Linked Lists • Trees • Graphs • Dynamic Programming • Sliding Window • Recursion • Problem Solving
+
+### 🎨 Frontend
+React • Next.js • React Native • Tailwind CSS • Three.js
+
+### ⚙️ Backend
+Node.js • Express.js • Go • REST APIs • JWT Authentication
+
+### 🗄️ Databases
+MySQL • PostgreSQL • MongoDB
+
+### ☁️ Cloud & DevOps
+AWS • Docker • GitHub Actions
+
+---
+
 ## 🏆 Featured Projects
 
 ### 🔗 DocLedger
@@ -31,22 +53,6 @@ Property listing and management platform with modern full-stack architecture.
 
 ### ☁️ CloudNest
 Cloud-based storage platform inspired by Google Drive and Dropbox.
-
----
-
-## 💻 Tech Stack
-
-### Frontend
-React • Next.js • React Native • Tailwind CSS • Three.js
-
-### Backend
-Node.js • Express.js • Go • REST APIs • JWT
-
-### Databases
-MongoDB • PostgreSQL • MySQL • DynamoDB
-
-### Cloud & DevOps
-AWS • Docker • GitHub Actions • Terraform (Learning)
 
 ---
 
@@ -65,8 +71,14 @@ AWS • Docker • GitHub Actions • Terraform (Learning)
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/davanesh-saminathan/
-- Portfolio: https://davaneshportfolio.vercel.app/
+<p align="center">
+<a href="https://www.linkedin.com/in/davanesh-saminathan/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://davaneshportfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</p>
 
 ---
 
