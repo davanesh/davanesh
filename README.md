@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer • Blockchain Enthusiast • Cloud Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Building+DocLedger+🔗;Full-Stack+Developer+💻;Exploring+Go+%2B+AWS+Cloud+☁️;Turning+Ideas+into+Production+Projects+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Building+DocLedger+%F0%9F%94%97;Full-Stack+Developer+%F0%9F%92%BB;Exploring+Go+%2B+AWS+Cloud+%E2%98%81%EF%B8%8F;Turning+Ideas+into+Production+Projects+%F0%9F%9A%80" />
 </p>
 
 ---
