@@ -14,45 +14,30 @@
 - 🔗 Currently building **DocLedger**, a Blockchain-Based Government Document Verification System
 - ☁️ Interested in Cloud Computing, AWS, Distributed Systems and Backend Engineering
 - 🌱 Learning Docker, PostgreSQL, Go and System Design
-- 🎯 Goal: Become a world-class Software Engineer
 
 ---
 
-## 💻 Skills & Technologies
+## 💻 Tech Stack
 
-### 👨‍💻 Programming Languages
-Java • Python • JavaScript • TypeScript • Go • C
-
-### 🧠 Data Structures & Algorithms
-Arrays • Strings • Linked Lists • Trees • Graphs • Dynamic Programming • Sliding Window • Recursion • Problem Solving
-
-### 🎨 Frontend
-React • Next.js • React Native • Tailwind CSS • Three.js
-
-### ⚙️ Backend
-Node.js • Express.js • Go • REST APIs • JWT Authentication
-
-### 🗄️ Databases
-MySQL • PostgreSQL • MongoDB
-
-### ☁️ Cloud & DevOps
-AWS • Docker • GitHub Actions
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,go,c,react,nextjs,tailwind,nodejs,express,mongodb,mysql,postgres,docker,aws,github,git,vscode" />
+</p>
 
 ---
 
 ## 🏆 Featured Projects
 
 ### 🔗 DocLedger
-Blockchain-powered document verification platform with permission-based access control, encrypted document storage, QR verification and tamper-proof records.
+Blockchain-powered government document verification platform using blockchain, encryption, permission-based access control and QR verification.
+
+### ⚡ AutoFlow.AI
+Smart workflow orchestrator featuring AI-powered automation, Go microservices, AWS services and visual workflow building.
 
 ### 🚑 EmergencyRide
 Real-time ambulance booking and emergency transport management platform.
 
-### 🏠 Real Estate Marketplace
-Property listing and management platform with modern full-stack architecture.
-
-### ☁️ CloudNest
-Cloud-based storage platform inspired by Google Drive and Dropbox.
+### 🤖 AI PR-Reviewer
+AI-powered code review assistant that analyzes pull requests and provides automated feedback.
 
 ---
 
@@ -77,6 +62,9 @@ Cloud-based storage platform inspired by Google Drive and Dropbox.
 </a>
 <a href="https://davaneshportfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/davanesh">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 </p>
 
